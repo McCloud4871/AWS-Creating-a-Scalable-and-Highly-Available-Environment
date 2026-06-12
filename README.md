@@ -1,4 +1,4 @@
-# AWS-Creating-a-Scalable-and-Highly-Available-Environment
+# AWS Auto Scaling Web Applications with High Availability
 
 ## Project Overview
 
